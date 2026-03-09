@@ -1,0 +1,35 @@
+.Essay {
+    padding: 15px
+    margin: 15px auto;
+    max-width: 800px;
+}
+
+.essayBg {
+    background-color: #2f9090;
+    margin: 15px auto;
+    max-width: 800px;
+}
+
+.center{
+    text-align: center;
+}
+
+body {
+font-family: "Lato", sans-serif;
+}
+
+
+#indexBody {
+ background-image: url("Bridge.jpg");
+height: 100vh;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+}
+
+#indexText {
+    color: white;
+}
+
+ol.d {list-style-type: upper-roman;}
+
